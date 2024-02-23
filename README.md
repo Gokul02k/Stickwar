@@ -1,1 +1,1 @@
-# Stickwar
+Stickwar this is a game we can only run it in linux platform. This is like a fighting game the rules were mentioned in the game itself. the files are available and to create the executable file we need to compile the main file with pthread lib like "gcc main.c -pthread" after you can execute the file and make the game fit the screen. 
